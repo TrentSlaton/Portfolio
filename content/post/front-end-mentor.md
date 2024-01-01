@@ -5,4 +5,4 @@ externalLink = "https://trentslaton.github.io/Front-End-Mentor---Portfolio-Page/
 weight = 1
 +++
 
-list of FEM challenges
+My growing list of Front End Mentor challenges. These challenge put my front end development skills to the test using vanilla HTML, CSS, and JavaScript.
