@@ -5,4 +5,4 @@ externalLink = "https://github.com/TrentSlaton/Data-Structures-and-Algorithms"
 weight = 3
 +++
 
-Implementation of DSA in C.
+My first real programming project. It is a collection of command line programs that showcase some fundamental data structures, abstract data types, and algorithms. It was written in C with command line Vi using the Make build system. There is also a POSIX shell script for testing and an experiment that tests real-world results of the sorting algoriths.
